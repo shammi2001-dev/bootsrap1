@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#demo{
+    background: rgb(73, 7, 73);
+    padding: 100px 0;
+    
+}
+.shammi{
+    background: rgb(118, 216, 223);
+    padding: 100px 0;
+}
+.shammi1{
+    background: rgb(166, 131, 212);
+    padding: 100px 0;
+}
+.shammi2{
+    background: rgb(219, 133, 111);
+    padding: 100px 0;
+}
